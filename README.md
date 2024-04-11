@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **wilsonsihombing03@gmail.com**
 
-- 🤝 I'm currently learning **C language**
+- 🤝 I'm currently learning **Java language**
 
-- ⚡ Fun fact **I like to solve challanges in Hackerrank and HackerEarth website.**
+- ⚡ Fun fact **I like to solve challanges in online coding challenges website.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
